@@ -1,0 +1,1 @@
+web: gunicor -b :$PORT microblog:app
